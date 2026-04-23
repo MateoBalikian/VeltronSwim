@@ -1,5 +1,5 @@
 const VIDEO_URL =
-  "https://mzgmfqpvecolhniqxoty.supabase.co/storage/v1/object/public/kairos-midia/swimezml.mp4"
+  "https://mzgmfqpvecolhniqxoty.supabase.co/storage/v1/object/public/kairos-midia/trocker-demo.mp4"
 export default function VideoSection() {
   return (
     <section className="bg-[#0f172a] py-16 md:py-20 px-6 text-center">
