@@ -1,6 +1,5 @@
 const VIDEO_URL =
-  "https://mzgmfqpvecolhniqxoty.supabase.co/storage/v1/object/public/kairos-midia/Introducing%20Swim%20AI,%20computer%20vision%20video%20analysis%20for%20swimming%20-%20ezML%20(1080p,%20h264,%20youtube).mp4";
-
+  "https://mzgmfqpvecolhniqxoty.supabase.co/storage/v1/object/public/kairos-midia/swimezml.mp4"
 export default function VideoSection() {
   return (
     <section className="bg-[#0f172a] py-16 md:py-20 px-6 text-center">
